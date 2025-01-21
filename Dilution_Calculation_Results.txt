@@ -1,0 +1,35 @@
+
+=== Dilution Calculation Results ===
+------------------------------------
+--- Outputs ---
+Initial Water Volume: 2881.30 L
+Water to be Added Per Tank: 3400.00 L
+Water to be Added Per Tank: 1.13 psig
+Permeate to be Added Per Tank: 5950.00 psig
+Pressure After Permeate Added: 3.54 psig
+Pressure After Extra Water Added: 3.77 psig
+Estimated Final Temperature: 34.56 °C
+------------------------------------
+--- Total Water Added ---
+Water In: 3400.00 L
+Water PSI: 1.13 psig
+Temp In: 80.00 °C
+------------------------------------
+--- Permeate Added to Water ---
+Perm kg: 5950.00 kg
+Perm Vol: 5409.09 L
+Initial PSIG: 2.64 psig
+Temp: 6.00 °C
+------------------------------------
+--- Final Fermentor Values ---
+Final kg: 9350.00 kg
+Final vol: 8904.76 L
+Final PSI: 3.75 psig
+Final Temp: 34.56 °C
+------------------------------------
+--- Other Outputs ---
+kg TS/ferm: 1309.00 kg/ferm
+Conversion: 0.95 g ethanol / g C6
+Desired Concentraction: 132.76 g/L lactose
+Initial TS: 14.75%
+------------------------------------
