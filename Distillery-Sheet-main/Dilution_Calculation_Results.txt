@@ -1,0 +1,70 @@
+=== Dilution Calculation Results ===
+Using default values
+------------------------------------
+--- Outputs ---
+Initial Water Volume: 2881.30 L
+Water to be Added Per Tank: 3400.00 L
+Water to be Added Per Tank: 1.13 Psig
+Permeate to be Added Per Tank: 5950.00 Psig
+Pressure After Permeate Added: 3.54 Psig
+Pressure After Extra Water Added: 3.77 Psig
+Estimated Final Temperature: 34.56 °C
+------------------------------------
+--- Total Water Added ---
+Water In: 3400.00 L
+Water PSI: 1.13 Psig
+Temp In: 80.00 °C
+------------------------------------
+--- Permeate Added to Water ---
+Perm kg: 5950.00 kg
+Perm Vol: 5409.09 L
+Initial Psig: 2.64 Psig
+Temp: 6.00 °C
+------------------------------------
+--- Final Fermentor Values ---
+Final kg: 9350.00 kg
+Final vol: 8904.76 L
+Final PSI: 3.75 Psig
+Final Temp: 34.56 °C
+------------------------------------
+--- Other Outputs ---
+kg TS/ferm: 1309.00 kg/ferm
+Conversion: 0.95 g ethanol / g C6
+Desired Concentraction: 132.76 g/L lactose
+Initial TS: 14.75%
+------------------------------------
+=== Dilution Calculation Results ===
+Using default values
+------------------------------------
+--- Outputs ---
+Initial Water Volume: 2881.30 L
+Water to be Added Per Tank: 3400.00 L
+Water to be Added Per Tank: 1.13 Psig
+Permeate to be Added Per Tank: 5950.00 Psig
+Pressure After Permeate Added: 3.54 Psig
+Pressure After Extra Water Added: 3.77 Psig
+Estimated Final Temperature: 34.56 °C
+------------------------------------
+--- Total Water Added ---
+Water In: 3400.00 L
+Water PSI: 1.13 Psig
+Temp In: 80.00 °C
+------------------------------------
+--- Permeate Added to Water ---
+Perm kg: 5950.00 kg
+Perm Vol: 5409.09 L
+Initial Psig: 2.64 Psig
+Temp: 6.00 °C
+------------------------------------
+--- Final Fermentor Values ---
+Final kg: 9350.00 kg
+Final vol: 8904.76 L
+Final PSI: 3.75 Psig
+Final Temp: 34.56 °C
+------------------------------------
+--- Other Outputs ---
+kg TS/ferm: 1309.00 kg/ferm
+Conversion: 0.95 g ethanol / g C6
+Desired Concentraction: 132.76 g/L lactose
+Initial TS: 14.75%
+------------------------------------
